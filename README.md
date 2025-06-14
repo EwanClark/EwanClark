@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ewanc.dev](https://github.com/EwanClark/ewanc.dev)<br>👯 I’m looking to collaborate on open source project more!<br>🌱 I’m currently learning React!<br>💬 Ask me anything about Linux!<br>⚡ Fun fact I started programming at 10 now I'm 13!
+🔭 I’m currently working on [ewanc.dev](https://github.com/EwanClark/ewanc-dev)<br>👯 I’m looking to collaborate on open source project more!<br>🌱 I’m currently learning React!<br>💬 Ask me anything about Linux!<br>⚡ Fun fact I started programming at 10 now I'm 13!
 
 
 ## 🌐 Socials:
