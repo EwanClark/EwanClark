@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,rust,cpp,js,ts&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=py,rust,cpp,ts&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,electron&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=express,supabase,mongodb,aws&theme=dark)](https://skillicons.dev)<br>
 
