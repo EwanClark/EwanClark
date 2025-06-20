@@ -3,12 +3,15 @@
 
 
 # 💻 Tech Stack:
-languages:
-[![My Skills](https://skillicons.dev/icons?i=py,rust,cpp,js,ts&theme=dark)](https://skillicons.dev)<br>
-frontend:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,electron,figma&theme=dark)](https://skillicons.dev)<br>
-backend:
-[![My Skills](https://skillicons.dev/icons?i=express,supabase,mongodb,aws,vercel&theme=dark)](https://skillicons.dev)<br>
+
+### **Languages**
+[![My Skills](https://skillicons.dev/icons?i=py,rust,cpp,js,ts&theme=dark)](https://skillicons.dev)
+
+### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,electron,figma&theme=dark)](https://skillicons.dev)
+
+### **Backend**
+[![My Skills](https://skillicons.dev/icons?i=express,supabase,mongodb,aws,vercel&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ewanclark&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)<br/>
