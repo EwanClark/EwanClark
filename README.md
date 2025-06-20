@@ -14,8 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=express,supabase,mongodb,aws,vercel&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ewanclark&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ewanclark&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ewanclark&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
