@@ -4,13 +4,8 @@
 
 # 💻 Tech Stack:
 
-### **Languages**
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,rust,cpp&theme=dark)](https://skillicons.dev)
-
-### **Frontend**
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,electron,figma&theme=dark)](https://skillicons.dev)
-
-### **Backend**
 [![My Skills](https://skillicons.dev/icons?i=express,supabase,mongodb,aws,vercel&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
