@@ -2,7 +2,7 @@
 ### Hi there 👋<br><br>I'm Ewan, a Full Stack Developer specializing in backend development.  <br>I enjoy creating complex backend systems that power applications, paired with simple and user-friendly frontends.<br><br>- 💬 Ask me anything about Linux!  <br>- 📫 Contact me at ewanclark4312@gmail.com  <br><br>Let's connect and build something awesome!
 
 
-# 💻 Tech Stack:
+# 💻 Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,rust,cpp&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,electron,figma&theme=dark)](https://skillicons.dev)
